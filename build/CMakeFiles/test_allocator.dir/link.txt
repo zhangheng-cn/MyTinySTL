@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_allocator.dir/test/test_allocator.cc.o  -o "&{PROJECT_SOURCE_DIR}/bin/test_allocator" 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zh/c++/mytinystl/MyTinySTL/mystl/allocator.h
+new
+-
+iostream
+-
+cstddef
+-
+climits
+-
+cstdlib
+-
+
+/home/zh/c++/mytinystl/MyTinySTL/test/test_allocator.cc
+../mystl/allocator.h
+/home/zh/c++/mytinystl/MyTinySTL/mystl/allocator.h
+iostream
+-
+vector
+-
+

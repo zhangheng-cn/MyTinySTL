@@ -1,0 +1,3 @@
+/home/zh/c++/mytinystl/MyTinySTL/build/CMakeFiles/rebuild_cache.dir
+/home/zh/c++/mytinystl/MyTinySTL/build/CMakeFiles/test_allocator.dir
+/home/zh/c++/mytinystl/MyTinySTL/build/CMakeFiles/edit_cache.dir
